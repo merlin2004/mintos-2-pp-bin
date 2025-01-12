@@ -1,4 +1,4 @@
-#-------------------------------------------------------------------
+# -------------------------------------------------------------------
 # Autor: Darkspider
 # Konverter zum Umwandeln des Mintos Kontauszuges für P2P Kredite
 # in das Portfolio Performance Format.
@@ -24,4 +24,4 @@
 # Evtl. muss in Portfolio Performance eine Anpassungen
 # für bestimmte Zellenwerte vorgenommen werden
 # Für die P2P Kredite sollte aber alles ohne Anpassung funktionieren
-#--------------------------------------------------------------------
+# --------------------------------------------------------------------
