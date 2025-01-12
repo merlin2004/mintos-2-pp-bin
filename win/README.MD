@@ -3,8 +3,9 @@
 # Konverter zum Umwandeln des Mintos Kontauszuges für P2P Kredite
 # in das Portfolio Performance Format.
 # Die Windows Version wurde unter Windows 10 mit CSV
-# Exporten ab 2024 ohne Zweitmarkt Transaktionen getestet
-# in deutscher Sprache
+# Exporten in deutscher Sprache ab 2024 ohne Zweitmarkt Transaktionen
+# getestet
+# Die MacOS Version wurde unter MacOS Somona 14.7 getestet
 #
 # Spenden willkommen: https://paypal.me/balduin20
 # 
